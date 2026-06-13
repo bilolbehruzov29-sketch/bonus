@@ -93,7 +93,7 @@
   width: 200px;
   height: 160px;
   border-radius: 20px;
-  background: rgba(203, 208, 255, 0.492);
+  background: #EAEEFA;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -147,6 +147,127 @@
   margin-left: 50px;
 }
 
+.one8 {
+  width: 250px;
+  height: 280px;
+  border-radius: 20px;
+  background: #E6F3F5;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  padding: 20px;
+}
+.one8 p {
+  color: #8BAC3E;
+}
+
+.one9 {
+  width: 250px;
+  height: 280px;
+  border-radius: 20px;
+  background: #EAEEFA;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  padding: 20px;
+}
+.one9 p {
+  color: #8BAC3E;
+}
+
+.one10 {
+  width: 250px;
+  height: 280px;
+  border-radius: 20px;
+  background: #F9EEF3;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  padding: 20px;
+}
+.one10 p {
+  color: #8BAC3E;
+}
+
+.one11 {
+  width: 250px;
+  height: 280px;
+  border-radius: 20px;
+  background: #F0FEEB;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  padding: 20px;
+}
+.one11 p {
+  color: #8BAC3E;
+}
+
+.one12 {
+  width: 250px;
+  height: 280px;
+  border-radius: 20px;
+  background: #F3F7D9;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  padding: 20px;
+}
+.one12 p {
+  color: #8BAC3E;
+}
+
+.one13 {
+  width: 250px;
+  height: 280px;
+  border-radius: 20px;
+  background: #F3F7D9;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  padding: 20px;
+}
+.one13 p {
+  color: #8BAC3E;
+}
+
+.one14 {
+  width: 250px;
+  height: 280px;
+  border-radius: 20px;
+  background: #EAEEFA;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  padding: 20px;
+}
+.one14 p {
+  color: #8BAC3E;
+}
+
+.sc {
+  width: 100px;
+  margin-top: 10px;
+}
+
+.bro {
+  max-width: 1400px;
+  height: 1000px;
+  margin: auto;
+}
+
+.four {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-evenly;
+}
+
+.four1 {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-evenly;
+}
+
 @media (max-width: 510px) {
   .two {
     display: none;
@@ -176,5 +297,30 @@
   .very {
     width: 100%;
     overflow-x: scroll;
+  }
+  .four {
+    display: block;
+    display: flex;
+    flex-direction: column;
+    row-gap: 50px;
+  }
+  .four1 {
+    display: none;
+  }
+  .bro {
+    width: 100%;
+    height: 1600px;
+  }
+  .one8 {
+    margin: auto;
+  }
+  .one8 {
+    margin: auto;
+  }
+  .one9 {
+    margin: auto;
+  }
+  .one10 {
+    margin: auto;
   }
 }/*# sourceMappingURL=style.css.map */
